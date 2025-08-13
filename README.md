@@ -12,7 +12,7 @@ I am a highly skilled **Senior Full Stack Developer** with **8**+ years’ exper
   />
 </a>
 
-<br/>
+<br>
 [![LinkedIn](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://linkedin.com/in/ivan-medved)
 [![Gmail](https://go-skill-icons.vercel.app/api/icons?i=gmail)](mailto:auro1995525@gmail.com)
 
