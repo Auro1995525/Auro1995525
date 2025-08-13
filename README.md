@@ -3,9 +3,8 @@ I am a highly skilled **Senior Full Stack Developer** with **8**+ years’ exper
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://linkedin.com/in/sven-li-8a7352379)
-[![Gmail](https://go-skill-icons.vercel.app/api/icons?i=gmail)](mailto:svenli9332@gmail.com)
-[![GitHub](https://go-skill-icons.vercel.app/api/icons?i=github)](https://github.com/Sky9332)
+[![LinkedIn](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://linkedin.com/in/ivan-medved)
+[![Gmail](https://go-skill-icons.vercel.app/api/icons?i=gmail)](mailto:auro1995525@gmail.com)
 
 ## Technologies:
 
