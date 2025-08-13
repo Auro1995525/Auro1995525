@@ -12,11 +12,6 @@ I am a highly skilled **Senior Full Stack Developer** with **8**+ years’ exper
   />
 </a>
 
-<br>
-[![LinkedIn](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://linkedin.com/in/ivan-medved)
-[![Gmail](https://go-skill-icons.vercel.app/api/icons?i=gmail)](mailto:auro1995525@gmail.com)
-
-
 <div style=" font-size: medium; color: #447ff7" align=center>
 
 <p  align="center">
@@ -24,3 +19,9 @@ I am a highly skilled **Senior Full Stack Developer** with **8**+ years’ exper
 <br>
 
 </div>
+
+[![LinkedIn](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://linkedin.com/in/ivan-medved)
+[![Gmail](https://go-skill-icons.vercel.app/api/icons?i=gmail)](mailto:auro1995525@gmail.com)
+
+
+
