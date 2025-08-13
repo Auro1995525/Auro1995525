@@ -15,8 +15,11 @@ I am a highly skilled **Senior Full Stack Developer** with **8**+ years’ exper
 [![LinkedIn](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://linkedin.com/in/ivan-medved)
 [![Gmail](https://go-skill-icons.vercel.app/api/icons?i=gmail)](mailto:auro1995525@gmail.com)
 
-## Technologies:
 
-#### Web-Development
+<div style=" font-size: medium; color: #447ff7" align=center>
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwindcss,materialui,jquery,react,redux,nodejs,expressjs,next,threejs)
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<br>
+
+</div>
