@@ -2,10 +2,10 @@
 
 I am a highly skilled **Senior Full Stack Developer** with **8**+ years’ experience delivering secure, high-performance web applications across finance, healthcare, and e-commerce, combining deep expertise in React.js, Laravel, Node.js, and AWS with a proven ability to optimize systems, integrate complex APIs, and ensure compliance with industry standards.
 
-<a href="https://kentcdodds.com">
+<a href="https://auro1995525.netlify.app">
   <img
     alt="Helping people make the world a better place through quality software"
-    src="https://raw.githubusercontent.com/kentcdodds/kentcdodds/main/image.png"
+    src="https://raw.githubusercontent.com/Auro1995525/Auro1995525/main/image.png"
   />
 </a>
 
